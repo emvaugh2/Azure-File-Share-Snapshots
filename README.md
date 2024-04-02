@@ -5,7 +5,7 @@
 * Connect File Share to Windows VM
 * Take a Snapshot and Restore Data
 
-
+HAS NOT BEEN COMPLETED YET. 
 
 ## Create a Storage Account and File Share
 
